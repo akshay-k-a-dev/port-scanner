@@ -55,6 +55,3 @@ Built by [Akshay-k-a-dev](https://github.com/Akshay-k-a-dev)
 Shared as part of μLearn CyberSecurity task
 Discord Hashtag: `#cl-cybersec-bashscriptportscanning`
 
-```
-
-
